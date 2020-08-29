@@ -79,6 +79,14 @@ function game(userChoice){
     }
 }
 
+function restart(){
+	result_p.innerHTML = "Thinking";
+	userScore = 0;
+	computerScore = 0;
+	userScore_span.innerHTML = userScore;
+	computerScore_span.innerHTML = computerScore;
+}
+
 function main(){
     rock_div.addEventListener('click', () => game("r"));
     

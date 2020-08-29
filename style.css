@@ -119,3 +119,32 @@ img{
     box-shadow: 0 0 10px gray;
 }
 
+.restart{
+	text-align: center;
+	padding-top: 2%;
+	padding-bottom: 5%;
+}
+
+.restartButton{
+	font-family: sans-serif;
+	font-size: 25px;
+	padding: 5px;
+	cursor: pointer;
+	width: 200px;
+}
+
+.restartButton:hover{
+	background: red;
+	color: white;
+	box-shadow: 0 0 10px white;
+	transition: all 0.3s ease;
+}
+
+.restartButton:hover span{
+  display: none;
+}
+
+.restartButton:hover:after{
+  content: 'Are You Sure?!';
+}
+
