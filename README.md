@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 
-**To play the game: **
+**To play the game:**
 
 https://raymondkwok7877.github.io/Rock-Paper-Scissors/ 
 
@@ -13,7 +13,7 @@ The score increments depending if you win or lost.
 
 -----------------------------------------------------------------------------
 
-**Link to tutorial: **
+**Link to tutorial:**
 
 https://www.youtube.com/watch?v=jaVNP3nIAv0
 
