@@ -70,7 +70,7 @@ header > h1{
     border: 5px solid white;
     border-radius: 30%;
     margin: 0 20px;
-    padding: 10px;
+    padding: 15px;
     transition: all 0.3s ease;
 }
 
@@ -93,7 +93,7 @@ header > h1{
 img{
     height: 200px;
     width: 200px;
-    border-radius: 60%;
+    border-radius: 40%;
 }
 
 #action-message{
